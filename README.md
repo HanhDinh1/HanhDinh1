@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Hanh
-- 👀 I’m interested in ...
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning full stack web developmet
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on any project
+- 📫 How to reach me:
+Email: ms.myhanh89@gmail.com
 
 <!---
 HanhDinh1/HanhDinh1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
