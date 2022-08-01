@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hanh
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning full stack web developmen
+- 🌱 I’m currently learning full stack web development
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me:
 Email: ms.myhanh89@gmail.com
