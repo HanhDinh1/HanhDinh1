@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hanh
+- 👋 Hi, I’m Hanh - A Full Stack Web Developer
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning full stack web development
 - 💞️ I’m looking to collaborate on any project
