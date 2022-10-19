@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hanh - A Full Stack Web Developer
-- 👀 I’m interested in coding
+- 👀 I’m interested in building full stack web applications, websites
 - 🌱 I’m currently learning full stack web development
-- 💞️ I’m looking to collaborate on any project
+- 💞️ I’m available to collaborate
 - 📫 How to reach me:
 Email: ms.myhanh89@gmail.com
 
